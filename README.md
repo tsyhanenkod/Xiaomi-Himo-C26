@@ -1,2 +1,2 @@
-# Xiaomi-Himo-C26
-Xiaomi Himo C26 Landing Page
+# Xiaomi Himo C26 Landing Page
+Test langing page for portfolio
